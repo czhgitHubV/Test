@@ -14,3 +14,5 @@ def mul(a, b):
 
 	
 fz2修改
+
+abcdef
