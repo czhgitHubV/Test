@@ -14,9 +14,3 @@ def mul(a, b):
 
 	
 fz2修改
-<<<<<<< Updated upstream
-
-abcdef
-=======
-123456
->>>>>>> Stashed changes
